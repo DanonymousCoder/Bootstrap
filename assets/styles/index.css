@@ -12,6 +12,12 @@ body {
     font-weight: 500;
     text-transform: uppercase;
 }
+.navbar-light .navbar-brand {
+    color: #000;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
 .carousel-item {
     height: 100vh;
     min-height: 300px;
