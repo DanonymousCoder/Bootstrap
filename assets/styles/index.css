@@ -62,6 +62,12 @@ body {
 
 
 /* Responsiveness */
+@media only screen and (min-width: 767px) and (min-width: 991px) {
+    .carousel-caption {
+        bottom: 370px;
+    }
+}
+
 @media only screen and (max-width: 767px) {
     .navbar-nav {
         text-align: center;
