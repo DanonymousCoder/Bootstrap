@@ -23,6 +23,9 @@ body {
 .navbar-light .navbar-brand:hover {
     color: #000;
 }
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
 .carousel-item {
     height: 100vh;
     min-height: 300px;
