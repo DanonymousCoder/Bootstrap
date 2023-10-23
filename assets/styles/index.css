@@ -69,4 +69,8 @@ body {
     .carousel-caption {
         bottom: 125px;
     }
+    .carousel-caption h5 {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
 }
