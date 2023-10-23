@@ -75,4 +75,9 @@ body {
     .carousel-caption a {
         padding: 10px 15px;
     }
+    .carousel-caption p {
+        font-size: 12px;
+        width: 100%;
+        line-height: 1.6;
+    }
 }
