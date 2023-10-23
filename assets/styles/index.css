@@ -26,6 +26,9 @@ body {
 .navbar-light .navbar-nav .nav-link {
     color: #000;
 }
+.w-100 {
+    height: 100vh;
+}
 .carousel-item {
     height: 100vh;
     min-height: 300px;
