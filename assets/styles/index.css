@@ -19,6 +19,10 @@ body {
     font-weight: 500;
     letter-spacing: 2px;
 }
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+    color: #000;
+}
 .carousel-item {
     height: 100vh;
     min-height: 300px;
