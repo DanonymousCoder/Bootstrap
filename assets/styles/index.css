@@ -59,3 +59,14 @@ body {
     background-color:  rgba(0, 0, 0, 0.7);
     z-index: 1;
 }
+
+
+/* Responsiveness */
+@media only screen and (max-width: 767px) {
+    .navbar-nav {
+        text-align: center;
+    }
+    .carousel-caption {
+        bottom: 125px;
+    }
+}
