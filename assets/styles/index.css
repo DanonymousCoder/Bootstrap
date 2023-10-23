@@ -70,7 +70,9 @@ body {
         bottom: 125px;
     }
     .carousel-caption h5 {
-        padding: 10px 15px;
-        font-size: 15px;
+        font-size: 17px;
+    }
+    .carousel-caption a {
+        padding: 10px;
     }
 }
