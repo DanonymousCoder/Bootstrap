@@ -107,4 +107,10 @@ body {
         width: 100%;
         line-height: 1.6;
     }
+    .about-text {
+        padding-top: 50px;
+    }
+    .card {
+        margin-bottom: 30px;
+    }
 }
