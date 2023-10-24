@@ -73,7 +73,7 @@ body {
 }
 
 /* Responsiveness */
-@media only screen and (min-width: 767px) and (maxad-width: 991px) {
+@media only screen and (min-width: 767px) and (max-width: 991px) {
     .carousel-caption {
         bottom: 370px;
     }
