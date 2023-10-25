@@ -17,6 +17,8 @@
 <!-- Link for CSS -->
 <link rel="stylesheet" href="./assets/styles/index.css">
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -118,7 +120,7 @@
       </section>
 
 
-      <section id="services" class="services section-padding">
+      <section id="services" class="services section-padding" data-aos="fade-up" aos-delay="200">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -349,12 +351,17 @@
         </div>
       </section>
 
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+      <script>
+        AOS.init();
+      </script>
 
+    </body>
       <!-- Footer -->
       <footer class="bg-dark p-2 text-center">
         <div class="container">
           <p class="text-white">All rights reserved @BuildVill</p>
         </div>
       </footer>
-</body>
+
 </html>
