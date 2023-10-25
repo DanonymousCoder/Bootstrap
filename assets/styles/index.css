@@ -71,6 +71,9 @@ body {
 .team .card-body {
     box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
 }
+.card-zoom {
+    transition: ease-in 0.5s;
+}
 
 /* Responsiveness */
 @media only screen and (min-width: 767px) and (max-width: 991px) {
